@@ -7,7 +7,7 @@ on:
 
 jobs:
   hello_world:
-    runs-on: ubunti-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Echo current time
         run: echo "the present server time is $(date)"
