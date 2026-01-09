@@ -1,4 +1,4 @@
-name: Fork Test Workflow
+name: Hello Test Workflow
 
 on:
   push:
