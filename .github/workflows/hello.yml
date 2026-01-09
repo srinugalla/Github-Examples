@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say hello
-        run: echo "✅ GitHub Actions is working in my fork!"
+        run: echo "Hello - ✅ GitHub Actions is working in my fork!"
